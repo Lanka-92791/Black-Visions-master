@@ -161,7 +161,7 @@ function HomeScreen({ navigation }) {
             <Text style={styles.cardTitle}>Hotel 3</Text>
             <StarRating ratings={4} reviews={99} />
             <Text style={styles.cardDetails}>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
+              Lorem Ipsum is  simply dummy text of the printing and typesetting
               industry.
             </Text>
           </View>
