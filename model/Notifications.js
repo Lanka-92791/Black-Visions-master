@@ -41,7 +41,7 @@ export default Notifications = [
   {
     id: 8,
     title: "Check new Roll Center within 3 km",
-    details: "A new roll center is being loved by more people around you.",
+    details: "A new roll center is a being loved by more people around you.",
   },
   {
     id: 9,
