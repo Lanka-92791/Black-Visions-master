@@ -4,7 +4,7 @@ import { View, Text, Button } from "react-native";
 function BookmarkScreen() {
   return (
     <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-      <Text>Bookmark scree</Text>
+      <Text>Bookmark screen</Text>
     </View>
   );
 }
