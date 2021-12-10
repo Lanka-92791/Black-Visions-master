@@ -114,7 +114,7 @@ function SignInScreen({ navigation }) {
     <View style={styles.container}>
       <StatusBar backgroundColor="#0398fc" barStyle="light-content" />
       <View style={styles.header}>
-        <Text style={styles.text_header}>Welcome!</Text>
+        <Text style={styles.text_header}>Welcome!!</Text>
       </View>
       <Animatable.View
         animation="zoomIn"
