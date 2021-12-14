@@ -63,7 +63,7 @@ export function DrawerContent(props) {
             {/* Home */}
             <DrawerItem
               icon={({ color, size }) => (
-                <Icon name="home-outline" color={color} size={size} />
+                <Icon name="home--outline" color={color} size={size} />
               )}
               label="Home"
               onPress={() => {
