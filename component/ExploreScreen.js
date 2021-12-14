@@ -121,7 +121,7 @@ const ExploreScreen = () => {
     const scale = mapAnimation.interpolate({
       inputRange,
       outputRange: [1, 1.5, 1],
-      extrapolate: "clamp",
+      extrapolate: "clamps",
     });
 
     return { scale };
