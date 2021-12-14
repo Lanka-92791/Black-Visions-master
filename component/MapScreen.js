@@ -227,7 +227,7 @@ function MapScreen() {
         <Callout tooltip>
           <View style={styles.bubble}>
             <Text style={styles.name}>Black Eye</Text>
-            <Text style={styles.name}>Company of Black Battle</Text>
+            <Text style={styles.name}>Company of a Black Battle</Text>
             <Image
               style={styles.image}
               source={require("../assets/logo01.png")}
