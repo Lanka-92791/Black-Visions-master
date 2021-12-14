@@ -12,7 +12,7 @@ export const markers = [
       longitude: 79.888634,
     },
     title: "Hotel 1",
-    description: "This is the best food place",
+    description: "This is a best food place",
     image: Images[0].image,
     rating: 3,
     reviews: 99,
