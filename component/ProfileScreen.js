@@ -46,7 +46,7 @@ function ProfileScreen(props) {
         </View>
         <View style={styles.row}>
           <Icon name="phone" color="#777777" size={20} />
-          <Text style={{ color: "#777777", marginLeft: 20 }}>076-1234567</Text>
+          <Text style={{ color: "#777777", marginLeft: 20 }}>076-1234517</Text>
         </View>
         <View style={styles.row}>
           <Icon name="email" color="#777777" size={20} />
