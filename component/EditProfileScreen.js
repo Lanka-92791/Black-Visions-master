@@ -25,7 +25,7 @@ const EditProfileScreen = () => {
   renderInner = () => (
     <View style={styles.panel}>
       <View style={{ alignItems: "center" }}>
-        <Text style={styles.panelTitle}>Uploads Photo</Text>
+        <Text style={styles.panelTitle}>Upload Photo</Text>
         <Text style={styles.panelSubtitle}>Choose Your Profile Picture</Text>
       </View>
       <TouchableOpacity style={styles.panelButton} onPress={() => {}}>
