@@ -6,7 +6,7 @@ export default Notifications = [
       "Your pizza order to snack corner has been accepted and being processed.",
   },
   {
-    
+    id: 2,
     title: "Your order has been delivered",
     details: "Your has been delivered by Delicious Bong Recipe.",
   },
