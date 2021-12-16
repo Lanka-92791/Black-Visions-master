@@ -3,7 +3,7 @@ import DetailScreen from "./NotificationScreen";
 import HomeScreen from "./HomeScreen";
 import ProfileScreen from "./ProfileScreen";
 import ExploreScreen from "./ExploreScreen";
-
+import MapScreen from "./MapScreen";
 
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import Icon from "react-native-vector-icons/Ionicons";
