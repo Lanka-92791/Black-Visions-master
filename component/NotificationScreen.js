@@ -145,7 +145,7 @@ const NotificationScreen = ({ navigation }) => {
           >
             <MaterialCommunityIcons
               name="close-circle-outline"
-              size={2}
+              size={25}
               style={styles.trash}
               color="#fff"
             />
