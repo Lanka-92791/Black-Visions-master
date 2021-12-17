@@ -86,7 +86,7 @@ function SignUpScreen({ navigation }) {
           />
           <Animatable.View animation="bounceInRight">
             {data.check_textInputChange ? (
-              <Feather name="check-circle" color="green" size={25} />
+              <Feather name="check-circle" color="green" size={20} />
             ) : null}
           </Animatable.View>
         </View>
