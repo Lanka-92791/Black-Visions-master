@@ -15,9 +15,9 @@ export default Users = [
   },
   {
     id: 3,
-    email: "user@gmail.com",
-    username: "user",
-    password: "password",
-    userToken: "token",
+    email: "use3r@gmail.com",
+    username: "user3",
+    password: "password3",
+    userToken: "token3",
   },
 ];
