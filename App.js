@@ -125,10 +125,10 @@ function App() {
         }
         dispatch({ type: "LOGOUT" });
       },
-      signUp: () => {
-        // setuserToken("secret");
-        // setIsLoading(false);
-      },
+      // signUp: () => {
+      //   // setuserToken("secret");
+      //   // setIsLoading(false);
+      // },
       toggleTheme: () => {
         setIsDarkTheme((isDarkTheme) => !isDarkTheme);
       },
@@ -145,7 +145,6 @@ function App() {
       } catch (e) {
         console.log(e);
       }
-      // setIsLoading(false);
       dispatch({ type: "REGISTER", token: userToken });
     }, 1000);
   }, []);
